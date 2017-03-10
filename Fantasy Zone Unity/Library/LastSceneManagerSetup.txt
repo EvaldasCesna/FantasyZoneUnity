@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/TitleScreen.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/FantasyZone.unity
+  isLoaded: 0
+  isActive: 0

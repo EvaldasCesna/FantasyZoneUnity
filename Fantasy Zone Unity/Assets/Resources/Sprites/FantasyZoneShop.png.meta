@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 87abbc4f939e9f344af2bf92a791e655
+timeCreated: 1488564022
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FantasyZoneShop_0
+    21300002: FantasyZoneShop_1
+    21300004: FantasyZoneShop_2
+    21300006: FantasyZoneShop_3
+    21300008: FantasyZoneShop_4
+    21300010: FantasyZoneShop_5
+    21300012: FantasyZoneShop_6
+    21300014: FantasyZoneShop_7
+    21300016: FantasyZoneShop_8
+    21300018: FantasyZoneShop_9
+    21300020: FantasyZoneShop_10
+    21300022: FantasyZoneShop_11
+    21300024: FantasyZoneShop_12
+    21300026: FantasyZoneShop_13
+    21300028: FantasyZoneShop_14
+    21300030: FantasyZoneShop_15
+    21300032: FantasyZoneShop_16
+    21300034: FantasyZoneShop_17
+    21300036: FantasyZoneShop_18
+    21300038: FantasyZoneShop_19
+    21300040: FantasyZoneShop_20
+    21300042: FantasyZoneShop_21
+    21300044: FantasyZoneShop_22
+    21300046: FantasyZoneShop_23
+    21300048: FantasyZoneShop_24
+    21300050: FantasyZoneShop_25
+    21300052: FantasyZoneShop_26
+    21300054: FantasyZoneShop_27
+    21300056: FantasyZoneShop_28
+    21300058: FantasyZoneShop_29
+    21300060: FantasyZoneShop_30
+    21300062: FantasyZoneShop_31
+    21300064: FantasyZoneShop_32
+    21300066: FantasyZoneShop_33
+    21300068: FantasyZoneShop_34
+    21300070: FantasyZoneShop_35
+    21300072: FantasyZoneShop_36
+    21300074: FantasyZoneShop_37
+    21300076: FantasyZoneShop_38
+    21300078: FantasyZoneShop_39
+    21300080: FantasyZoneShop_40
+    21300082: FantasyZoneShop_41
+    21300084: FantasyZoneShop_42
+    21300086: FantasyZoneShop_43
+    21300088: FantasyZoneShop_44
+    21300090: FantasyZoneShop_45
+    21300092: FantasyZoneShop_46
+    21300094: FantasyZoneShop_47
+    21300096: FantasyZoneShop_48
+    21300098: FantasyZoneShop_49
+    21300100: FantasyZoneShop_50
+    21300102: FantasyZoneShop_51
+    21300104: FantasyZoneShop_52
+    21300106: FantasyZoneShop_53
+    21300108: FantasyZoneShop_54
+    21300110: FantasyZoneShop_55
+    21300112: FantasyZoneShop_56
+    21300114: FantasyZoneShop_57
+    21300116: FantasyZoneShop_58
+    21300118: FantasyZoneShop_59
+    21300120: FantasyZoneShop_60
+    21300122: FantasyZoneShop_61
+    21300124: FantasyZoneShop_62
+    21300126: FantasyZoneShop_63
+    21300128: FantasyZoneShop_64
+    21300130: FantasyZoneShop_65
+    21300132: FantasyZoneShop_66
+    21300134: FantasyZoneShop_67
+    21300136: FantasyZoneShop_68
+    21300138: FantasyZoneShop_69
+    21300140: FantasyZoneShop_70
+    21300142: FantasyZoneShop_71
+    21300144: FantasyZoneShop_72
+    21300146: FantasyZoneShop_73
+    21300148: FantasyZoneShop_74
+    21300150: FantasyZoneShop_75
+    21300152: FantasyZoneShop_76
+    21300154: FantasyZoneShop_77
+    21300156: FantasyZoneShop_78
+    21300158: FantasyZoneShop_79
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FantasyZoneShop_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 98
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 98
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 98
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 98
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 27
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 27
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 27
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 27
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 27
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 6
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 14
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 14
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 14
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 14
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 14
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_42
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_43
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8
+        width: 1
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_45
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 5
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_68
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_69
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_71
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 4
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_74
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_75
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_76
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 6
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_78
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 6
+        width: 2
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneShop_79
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 5
+        width: 3
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

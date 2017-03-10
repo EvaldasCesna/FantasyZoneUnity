@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 0b2a4ce4029014f43a03ec974f21f0a0
+timeCreated: 1488564071
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FantasyZoneTitle_0
+    21300002: FantasyZoneTitle_1
+    21300004: FantasyZoneTitle_2
+    21300006: FantasyZoneTitle_3
+    21300008: FantasyZoneTitle_4
+    21300010: FantasyZoneTitle_5
+    21300012: FantasyZoneTitle_6
+    21300014: FantasyZoneTitle_7
+    21300016: FantasyZoneTitle_8
+    21300018: FantasyZoneTitle_9
+    21300020: FantasyZoneTitle_10
+    21300022: FantasyZoneTitle_11
+    21300024: FantasyZoneTitle_12
+    21300026: FantasyZoneTitle_13
+    21300028: FantasyZoneTitle_14
+    21300030: FantasyZoneTitle_15
+    21300032: FantasyZoneTitle_16
+    21300034: FantasyZoneTitle_17
+    21300036: FantasyZoneTitle_18
+    21300038: FantasyZoneTitle_19
+    21300040: FantasyZoneTitle_20
+    21300042: FantasyZoneTitle_21
+    21300044: FantasyZoneTitle_22
+    21300046: FantasyZoneTitle_23
+    21300048: FantasyZoneTitle_24
+    21300050: FantasyZoneTitle_25
+    21300052: FantasyZoneTitle_26
+    21300054: FantasyZoneTitle_27
+    21300056: FantasyZoneTitle_28
+    21300058: FantasyZoneTitle_29
+    21300060: FantasyZoneTitle_30
+    21300062: FantasyZoneTitle_31
+    21300064: FantasyZoneTitle_32
+    21300066: FantasyZoneTitle_33
+    21300068: FantasyZoneTitle_34
+    21300070: FantasyZoneTitle_35
+    21300072: FantasyZoneTitle_36
+    21300074: FantasyZoneTitle_37
+    21300076: FantasyZoneTitle_38
+    21300078: FantasyZoneTitle_39
+    21300080: FantasyZoneTitle_40
+    21300082: FantasyZoneTitle_41
+    21300084: FantasyZoneTitle_42
+    21300086: FantasyZoneTitle_43
+    21300088: FantasyZoneTitle_44
+    21300090: FantasyZoneTitle_45
+    21300092: FantasyZoneTitle_46
+    21300094: FantasyZoneTitle_47
+    21300096: FantasyZoneTitle_48
+    21300098: FantasyZoneTitle_49
+    21300100: FantasyZoneTitle_50
+    21300102: FantasyZoneTitle_51
+    21300104: FantasyZoneTitle_52
+    21300106: FantasyZoneTitle_53
+    21300108: FantasyZoneTitle_54
+    21300110: FantasyZoneTitle_55
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FantasyZoneTitle_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 80
+        width: 254
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 80
+        width: 248
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 62
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 62
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 62
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 62
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 62
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 53
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 53
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 62
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 62
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 61
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 62
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_41
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_46
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_48
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 52
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 52
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 52
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_54
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 52
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneTitle_55
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 53
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: c310791db82f39f4c88347a528001df9
+timeCreated: 1488563694
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FantasyZoneEnemySprites_0
+    21300002: FantasyZoneEnemySprites_1
+    21300004: FantasyZoneEnemySprites_2
+    21300006: FantasyZoneEnemySprites_3
+    21300008: FantasyZoneEnemySprites_4
+    21300010: FantasyZoneEnemySprites_5
+    21300012: FantasyZoneEnemySprites_6
+    21300014: FantasyZoneEnemySprites_7
+    21300016: FantasyZoneEnemySprites_8
+    21300018: FantasyZoneEnemySprites_9
+    21300020: FantasyZoneEnemySprites_10
+    21300022: FantasyZoneEnemySprites_11
+    21300024: FantasyZoneEnemySprites_12
+    21300026: FantasyZoneEnemySprites_13
+    21300028: FantasyZoneEnemySprites_14
+    21300030: FantasyZoneEnemySprites_15
+    21300032: FantasyZoneEnemySprites_16
+    21300034: FantasyZoneEnemySprites_17
+    21300036: FantasyZoneEnemySprites_18
+    21300038: FantasyZoneEnemySprites_19
+    21300040: FantasyZoneEnemySprites_20
+    21300042: FantasyZoneEnemySprites_21
+    21300044: FantasyZoneEnemySprites_22
+    21300046: FantasyZoneEnemySprites_23
+    21300048: FantasyZoneEnemySprites_24
+    21300050: FantasyZoneEnemySprites_25
+    21300052: FantasyZoneEnemySprites_26
+    21300054: FantasyZoneEnemySprites_27
+    21300056: FantasyZoneEnemySprites_28
+    21300058: FantasyZoneEnemySprites_29
+    21300060: FantasyZoneEnemySprites_30
+    21300062: FantasyZoneEnemySprites_31
+    21300064: FantasyZoneEnemySprites_32
+    21300066: FantasyZoneEnemySprites_33
+    21300068: FantasyZoneEnemySprites_34
+    21300070: FantasyZoneEnemySprites_35
+    21300072: FantasyZoneEnemySprites_36
+    21300074: FantasyZoneEnemySprites_37
+    21300076: FantasyZoneEnemySprites_38
+    21300078: FantasyZoneEnemySprites_39
+    21300080: FantasyZoneEnemySprites_40
+    21300082: FantasyZoneEnemySprites_41
+    21300084: FantasyZoneEnemySprites_42
+    21300086: FantasyZoneEnemySprites_43
+    21300088: FantasyZoneEnemySprites_44
+    21300090: FantasyZoneEnemySprites_45
+    21300092: FantasyZoneEnemySprites_46
+    21300094: FantasyZoneEnemySprites_47
+    21300096: FantasyZoneEnemySprites_48
+    21300098: FantasyZoneEnemySprites_49
+    21300100: FantasyZoneEnemySprites_50
+    21300102: FantasyZoneEnemySprites_51
+    21300104: FantasyZoneEnemySprites_52
+    21300106: FantasyZoneEnemySprites_53
+    21300108: FantasyZoneEnemySprites_54
+    21300110: FantasyZoneEnemySprites_55
+    21300112: FantasyZoneEnemySprites_56
+    21300114: FantasyZoneEnemySprites_57
+    21300116: FantasyZoneEnemySprites_58
+    21300118: FantasyZoneEnemySprites_59
+    21300120: FantasyZoneEnemySprites_60
+    21300122: FantasyZoneEnemySprites_61
+    21300124: FantasyZoneEnemySprites_62
+    21300126: FantasyZoneEnemySprites_63
+    21300128: FantasyZoneEnemySprites_64
+    21300130: FantasyZoneEnemySprites_65
+    21300132: FantasyZoneEnemySprites_66
+    21300134: FantasyZoneEnemySprites_67
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 413
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 412
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 411
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 397
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 397
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 378
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 378
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 358
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 356
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 340
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 321
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 305
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 252
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 211
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 209
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 178
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 178
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 162
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 163
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 146
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 147
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 91
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 38
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_63
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FantasyZoneEnemySprites_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 863ed84a34c318f488f51140fc3fd028
+timeCreated: 1488814473
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sega Genesis MLBPA Baseball Text Font
+  fontNames:
+  - Sega Genesis MLBPA Baseball Text Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
